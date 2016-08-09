@@ -1,0 +1,14 @@
+name: Casa Alessa Yoga
+layout_spectrum: 0.05390812522941402
+typography_spectrum: 0.7250688361457333
+color:
+  brandColors:
+    - '#FCFFF5'
+    - '#D1DBBD'
+    - '#91AA9D'
+    - '#3E606F'
+    - '#193441'
+  brandStrength: 0.5749546050361172
+  lightness: 0.36254160243422995
+  saturation: 0.5387473811159254
+  rhythmicContrast: 0.5526674471566745
